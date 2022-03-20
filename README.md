@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Sara-Lirio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sara-Lirio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Lirio&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sara-Lirio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Lirio&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
  <div style="display: inline_block"><br>
