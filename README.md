@@ -26,7 +26,7 @@
 <img align="right" alt="Sara-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/20f57ad281ea29de615173b287da62ab.gif">
 </div>
    
-   <h2>Soft Skills</h2>
+
 
    
    <div> 
