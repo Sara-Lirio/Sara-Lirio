@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Sara Lirio 🖖
 
-- 💻 Trabalhando com Front-End (HTML/CSS/JavaScript)
+- 💻 Trabalhando com Front-End 
 - 🐉 Bootcamp WebDev Fullstack - Resilia 💛 T17
 - 😄 Pronouns: Ela/dela
 
