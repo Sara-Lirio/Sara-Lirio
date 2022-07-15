@@ -18,7 +18,8 @@
 
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="48px;">
  <img src="http://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png" width="50px">
-<img src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png"  width="48px;">
+<img src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png"  width="50px;">
+<img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" width="50px;" >
 
 ## Contact 
 
