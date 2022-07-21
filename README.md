@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/98292860/179035132-2e73c22f-b3b0-4c7d-bffd-0ce94daa68f8.gif" height="560px">
 
-<h1>Hi, I'm Sara. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px;"> </h1>
+<h1>Hi, I'm Sara.  </h1>
 <p> Welcome to my portfolio !</p>
 
 <ul>
