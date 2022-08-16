@@ -7,7 +7,7 @@
 <li>I'm Front End Developer Jr. 🖥️</li> 
 <li>In formation for Fullstack  <img src="https://www.alumni.usp.br/wp-content/uploads/sites/244/2017/07/chapeu.png" width="20px;"></li>
 <li>Specializing in React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="16px;" ></li>
-<li>Trying to love JavaScript <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="22px;"> </li>
+<li>Loving JavaScript <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="22px;"> </li>
 <li>Flexbox crazy, so in love with CSS <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" width="22px;"></li>
 
 ## Tech Stack
