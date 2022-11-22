@@ -10,7 +10,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/524/524545.png" width="50px;">
 <img src="https://diegomariano.com/wp-content/uploads/2020/08/logo-2582747_640-e1597771254582.png" width="50px;">
 <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="50px;">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png"  width="47px;">
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="48px;">
  <img src="http://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png" width="50px">
 <img src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png"  width="50px;">
