@@ -5,7 +5,11 @@
 
 <ul>
 
+
+
 ## Tech Stack
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-lirio&layout=compact&langs_count=7&theme=dracula"/></br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/524/524545.png" width="50px;">
 <img src="https://diegomariano.com/wp-content/uploads/2020/08/logo-2582747_640-e1597771254582.png" width="50px;">
